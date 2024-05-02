@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @csick2
+- 👀 I’m interested in parametric design and scripting within BIM softwares. 
+- 🌱 I’m currently learning C# and Python for use in developing API in architectural BIM/CAD programs such as Revit and Rhino. 
